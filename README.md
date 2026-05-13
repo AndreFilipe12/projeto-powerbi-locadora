@@ -33,4 +33,4 @@ Principais análises:
 locadora de carros.pbix
 README.md
 
-
+![Dashboard Preview](dashboard-preview.png)
